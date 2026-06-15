@@ -1,0 +1,29 @@
+Employee Handbook
+Version: 1.0
+Effective Date: 2026-01-01
+Owner: People Operations
+
+Purpose
+The Employee Handbook provides a concise overview of the company's core expectations, workplace standards, and available support programs.
+
+Scope
+This handbook applies to all full-time, part-time, contract, and internship employees globally.
+
+1. Work Culture and Values
+The company expects employees to act with integrity, respect colleagues, and protect confidential information.
+
+2. Work Hours
+Standard work hours are 9:00 to 18:00 local time, Monday to Friday. Flexible arrangements must be approved in writing by the reporting manager.
+
+3. Workplace Conduct
+Harassment, discrimination, and retaliation are strictly prohibited. Violations may lead to disciplinary action up to and including termination.
+
+4. Information Security
+Employees must use only company-approved devices and follow IT security policies.
+
+FAQs
+Q: Is remote work allowed?
+A: Remote work is allowed based on team policy and manager approval.
+
+Q: Where can I find detailed policies?
+A: Detailed policies are available in the HR, Finance, IT, and Compliance policy documents.
