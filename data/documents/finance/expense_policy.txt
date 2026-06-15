@@ -1,0 +1,19 @@
+General Expense Policy
+Version: 1.0
+Effective Date: 2026-01-05
+Owner: Corporate Finance
+
+Purpose
+To define reimbursable business expenses and ensure prudent use of company funds.
+
+Scope
+Applies to all employees incurring expenses on behalf of the company.
+
+1. Reasonable and Necessary
+Expenses must be reasonable, necessary for business purposes, and properly documented.
+
+2. Non-Reimbursable Expenses
+Personal entertainment, family travel, traffic fines, and luxury upgrades are not reimbursable.
+
+3. Approval Workflow
+All expenses require line manager approval; expenses above defined thresholds may require additional finance approval.
