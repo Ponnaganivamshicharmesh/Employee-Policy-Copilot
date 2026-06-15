@@ -21,13 +21,13 @@ Thumbs.db
 # Logs
 *.log
 
-# Output files
+# Generated outputs
 outputs/
 results/
 models/
 checkpoints/
 
-# Optional data
+# Optional data folder
 # data/
 
 # IDEs
