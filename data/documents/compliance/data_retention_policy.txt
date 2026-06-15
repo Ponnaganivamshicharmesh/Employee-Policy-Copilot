@@ -1,0 +1,10 @@
+Data Retention Policy
+Version: 1.0
+Effective Date: 2026-01-18
+Owner: Compliance
+
+Purpose
+To define how long different categories of data are retained.
+
+1. HR Records
+Core HR records are retained for 7 years after employment ends, unless local law requires longer.

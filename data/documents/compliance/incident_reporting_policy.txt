@@ -1,0 +1,10 @@
+Incident Reporting Policy
+Version: 1.0
+Effective Date: 2026-02-01
+Owner: Security Operations
+
+Purpose
+To describe how employees should report security and compliance incidents.
+
+1. Reporting Channels
+Incidents must be reported via the incident hotline or security portal within 24 hours of discovery.
