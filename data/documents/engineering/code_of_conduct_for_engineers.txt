@@ -1,0 +1,13 @@
+Code of Conduct for Engineers
+Version: 1.0
+Effective Date: 2026-01-01
+Owner: VP Engineering
+
+Purpose
+To set ethical and professional standards for engineering staff.
+
+1. Quality and Safety
+Engineers must design systems that are reliable, secure, and maintainable.
+
+2. Confidentiality
+Product roadmaps, source code, and system designs are confidential and must not be disclosed externally.

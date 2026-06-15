@@ -1,0 +1,10 @@
+Onboarding Technical Guidelines
+Version: 1.0
+Effective Date: 2026-03-10
+Owner: Engineering Enablement
+
+Purpose
+To provide a consistent technical onboarding experience for new engineers.
+
+1. First Week Checklist
+New engineers must complete device setup, access requests, and mandatory training modules.

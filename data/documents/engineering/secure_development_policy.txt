@@ -1,0 +1,13 @@
+Secure Development Policy
+Version: 1.1
+Effective Date: 2026-02-05
+Owner: Application Security
+
+Purpose
+To integrate security practices throughout the software development lifecycle.
+
+1. Code Reviews
+All code changes must undergo peer review before merging to the main branch.
+
+2. Secrets Management
+Secrets must not be stored in source code repositories.

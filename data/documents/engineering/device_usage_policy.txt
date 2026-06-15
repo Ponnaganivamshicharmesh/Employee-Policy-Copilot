@@ -1,0 +1,16 @@
+Engineering Device Usage Policy
+Version: 1.0
+Effective Date: 2026-01-12
+Owner: Engineering Operations
+
+Purpose
+To govern the usage of laptops, development machines, and test devices.
+
+Scope
+Applies to all engineers and contractors using company-provided devices.
+
+1. Permitted Use
+Devices are provided for business use. Limited personal use is allowed if it does not interfere with security or productivity.
+
+2. Administrative Rights
+Engineering laptops may have elevated privileges, but users must not disable security software.
