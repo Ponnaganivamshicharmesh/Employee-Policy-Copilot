@@ -1,0 +1,268 @@
+[
+  {
+    "doc_id": "hr/employee_handbook",
+    "title": "Employee Handbook",
+    "department": "hr",
+    "document_type": "policy",
+    "version": "1.0",
+    "effective_date": "2026-01-01",
+    "owner": "HR Operations",
+    "access_level": "internal",
+    "source_file": "data/documents/hr/employee_handbook.txt",
+    "tags": [
+      "hr"
+    ]
+  },
+  {
+    "doc_id": "hr/leave_policy",
+    "title": "Leave Policy",
+    "department": "hr",
+    "document_type": "policy",
+    "version": "1.0",
+    "effective_date": "2026-01-01",
+    "owner": "HR Operations",
+    "access_level": "internal",
+    "source_file": "data/documents/hr/leave_policy.txt",
+    "tags": [
+      "hr"
+    ]
+  },
+  {
+    "doc_id": "hr/attendance_policy",
+    "title": "Attendance Policy",
+    "department": "hr",
+    "document_type": "policy",
+    "version": "1.0",
+    "effective_date": "2026-01-01",
+    "owner": "HR Operations",
+    "access_level": "internal",
+    "source_file": "data/documents/hr/attendance_policy.txt",
+    "tags": [
+      "hr"
+    ]
+  },
+  {
+    "doc_id": "hr/performance_review_policy",
+    "title": "Performance Review Policy",
+    "department": "hr",
+    "document_type": "policy",
+    "version": "1.0",
+    "effective_date": "2026-01-01",
+    "owner": "HR Operations",
+    "access_level": "internal",
+    "source_file": "data/documents/hr/performance_review_policy.txt",
+    "tags": [
+      "hr"
+    ]
+  },
+  {
+    "doc_id": "finance/travel_reimbursement_policy",
+    "title": "Travel Reimbursement Policy",
+    "department": "finance",
+    "document_type": "policy",
+    "version": "1.0",
+    "effective_date": "2026-01-01",
+    "owner": "Finance",
+    "access_level": "internal",
+    "source_file": "data/documents/finance/travel_reimbursement_policy.txt",
+    "tags": [
+      "finance"
+    ]
+  },
+  {
+    "doc_id": "finance/expense_policy",
+    "title": "Expense Policy",
+    "department": "finance",
+    "document_type": "policy",
+    "version": "1.0",
+    "effective_date": "2026-01-01",
+    "owner": "Finance",
+    "access_level": "internal",
+    "source_file": "data/documents/finance/expense_policy.txt",
+    "tags": [
+      "finance"
+    ]
+  },
+  {
+    "doc_id": "finance/meal_allowance_policy",
+    "title": "Meal Allowance Policy",
+    "department": "finance",
+    "document_type": "policy",
+    "version": "1.0",
+    "effective_date": "2026-01-01",
+    "owner": "Finance",
+    "access_level": "internal",
+    "source_file": "data/documents/finance/meal_allowance_policy.txt",
+    "tags": [
+      "finance"
+    ]
+  },
+  {
+    "doc_id": "finance/procurement_policy",
+    "title": "Procurement Policy",
+    "department": "finance",
+    "document_type": "policy",
+    "version": "1.0",
+    "effective_date": "2026-01-01",
+    "owner": "Finance",
+    "access_level": "internal",
+    "source_file": "data/documents/finance/procurement_policy.txt",
+    "tags": [
+      "finance"
+    ]
+  },
+  {
+    "doc_id": "engineering/device_usage_policy",
+    "title": "Device Usage Policy",
+    "department": "engineering",
+    "document_type": "policy",
+    "version": "1.0",
+    "effective_date": "2026-01-01",
+    "owner": "Engineering",
+    "access_level": "internal",
+    "source_file": "data/documents/engineering/device_usage_policy.txt",
+    "tags": [
+      "engineering"
+    ]
+  },
+  {
+    "doc_id": "engineering/code_of_conduct_for_engineers",
+    "title": "Code Of Conduct For Engineers",
+    "department": "engineering",
+    "document_type": "guideline",
+    "version": "1.0",
+    "effective_date": "2026-01-01",
+    "owner": "Engineering",
+    "access_level": "internal",
+    "source_file": "data/documents/engineering/code_of_conduct_for_engineers.txt",
+    "tags": [
+      "engineering"
+    ]
+  },
+  {
+    "doc_id": "engineering/secure_development_policy",
+    "title": "Secure Development Policy",
+    "department": "engineering",
+    "document_type": "policy",
+    "version": "1.0",
+    "effective_date": "2026-01-01",
+    "owner": "Engineering",
+    "access_level": "internal",
+    "source_file": "data/documents/engineering/secure_development_policy.txt",
+    "tags": [
+      "engineering"
+    ]
+  },
+  {
+    "doc_id": "engineering/onboarding_technical_guidelines",
+    "title": "Onboarding Technical Guidelines",
+    "department": "engineering",
+    "document_type": "guideline",
+    "version": "1.0",
+    "effective_date": "2026-01-01",
+    "owner": "Engineering",
+    "access_level": "internal",
+    "source_file": "data/documents/engineering/onboarding_technical_guidelines.txt",
+    "tags": [
+      "engineering"
+    ]
+  },
+  {
+    "doc_id": "it/access_control_policy",
+    "title": "Access Control Policy",
+    "department": "it",
+    "document_type": "policy",
+    "version": "1.0",
+    "effective_date": "2026-01-01",
+    "owner": "IT",
+    "access_level": "internal",
+    "source_file": "data/documents/it/access_control_policy.txt",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "doc_id": "it/password_and_mfa_policy",
+    "title": "Password And Mfa Policy",
+    "department": "it",
+    "document_type": "policy",
+    "version": "1.0",
+    "effective_date": "2026-01-01",
+    "owner": "IT",
+    "access_level": "internal",
+    "source_file": "data/documents/it/password_and_mfa_policy.txt",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "doc_id": "it/software_installation_policy",
+    "title": "Software Installation Policy",
+    "department": "it",
+    "document_type": "policy",
+    "version": "1.0",
+    "effective_date": "2026-01-01",
+    "owner": "IT",
+    "access_level": "internal",
+    "source_file": "data/documents/it/software_installation_policy.txt",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "doc_id": "compliance/privacy_policy",
+    "title": "Privacy Policy",
+    "department": "compliance",
+    "document_type": "policy",
+    "version": "1.0",
+    "effective_date": "2026-01-01",
+    "owner": "Compliance",
+    "access_level": "internal",
+    "source_file": "data/documents/compliance/privacy_policy.txt",
+    "tags": [
+      "compliance"
+    ]
+  },
+  {
+    "doc_id": "compliance/data_retention_policy",
+    "title": "Data Retention Policy",
+    "department": "compliance",
+    "document_type": "policy",
+    "version": "1.0",
+    "effective_date": "2026-01-01",
+    "owner": "Compliance",
+    "access_level": "internal",
+    "source_file": "data/documents/compliance/data_retention_policy.txt",
+    "tags": [
+      "compliance"
+    ]
+  },
+  {
+    "doc_id": "compliance/incident_reporting_policy",
+    "title": "Incident Reporting Policy",
+    "department": "compliance",
+    "document_type": "policy",
+    "version": "1.0",
+    "effective_date": "2026-01-01",
+    "owner": "Compliance",
+    "access_level": "internal",
+    "source_file": "data/documents/compliance/incident_reporting_policy.txt",
+    "tags": [
+      "compliance"
+    ]
+  },
+  {
+    "doc_id": "compliance/acceptable_use_policy",
+    "title": "Acceptable Use Policy",
+    "department": "compliance",
+    "document_type": "policy",
+    "version": "1.0",
+    "effective_date": "2026-01-01",
+    "owner": "Compliance",
+    "access_level": "internal",
+    "source_file": "data/documents/compliance/acceptable_use_policy.txt",
+    "tags": [
+      "compliance"
+    ]
+  }
+]

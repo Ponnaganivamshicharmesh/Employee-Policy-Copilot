@@ -1,0 +1,187 @@
+[
+  {
+    "qid": "q1",
+    "query": "What is the travel reimbursement policy?",
+    "expected_behavior": "answer",
+    "expected_department": "finance",
+    "retrieval_gt_doc_ids": [
+      "finance/travel_reimbursement_policy"
+    ],
+    "answer_or_refusal_guidance": "Explain eligible expenses, approval, and claim submission timelines."
+  },
+  {
+    "qid": "q2",
+    "query": "Are meal expenses reimbursable, and what is the daily limit?",
+    "expected_behavior": "answer",
+    "expected_department": "finance",
+    "retrieval_gt_doc_ids": [
+      "finance/travel_reimbursement_policy",
+      "finance/meal_allowance_policy"
+    ],
+    "answer_or_refusal_guidance": "Yes, reimbursable with 800 INR daily cap for domestic travel unless pre-approved for higher."
+  },
+  {
+    "qid": "q3",
+    "query": "What is the leave approval process?",
+    "expected_behavior": "answer",
+    "expected_department": "hr",
+    "retrieval_gt_doc_ids": [
+      "hr/leave_policy"
+    ],
+    "answer_or_refusal_guidance": "Leave must be requested via HR portal and approved by manager before start date."
+  },
+  {
+    "qid": "q4",
+    "query": "How many days of annual leave do employees accrue per year?",
+    "expected_behavior": "answer",
+    "expected_department": "hr",
+    "retrieval_gt_doc_ids": [
+      "hr/leave_policy"
+    ],
+    "answer_or_refusal_guidance": "Employees accrue 20 days of paid annual leave per calendar year."
+  },
+  {
+    "qid": "q5",
+    "query": "What is considered late arrival under the attendance policy?",
+    "expected_behavior": "answer",
+    "expected_department": "hr",
+    "retrieval_gt_doc_ids": [
+      "hr/attendance_policy"
+    ],
+    "answer_or_refusal_guidance": "Arrivals more than 15 minutes after scheduled start time are considered late."
+  },
+  {
+    "qid": "q6",
+    "query": "Is remote work allowed by the company?",
+    "expected_behavior": "answer",
+    "expected_department": "hr",
+    "retrieval_gt_doc_ids": [
+      "hr/employee_handbook"
+    ],
+    "answer_or_refusal_guidance": "Yes, remote work is allowed based on team policy and manager approval."
+  },
+  {
+    "qid": "q7",
+    "query": "What is the principle of least privilege in access control?",
+    "expected_behavior": "answer",
+    "expected_department": "it",
+    "retrieval_gt_doc_ids": [
+      "it/access_control_policy"
+    ],
+    "answer_or_refusal_guidance": "Access is granted based on job role and kept to the minimum needed, reviewed at least annually."
+  },
+  {
+    "qid": "q8",
+    "query": "Is multi-factor authentication mandatory for source code repositories?",
+    "expected_behavior": "answer",
+    "expected_department": "it",
+    "retrieval_gt_doc_ids": [
+      "it/password_and_mfa_policy"
+    ],
+    "answer_or_refusal_guidance": "Yes, MFA is mandatory for VPN, email, source code repositories, and admin consoles."
+  },
+  {
+    "qid": "q9",
+    "query": "How long are HR records retained after employment ends?",
+    "expected_behavior": "answer",
+    "expected_department": "compliance",
+    "retrieval_gt_doc_ids": [
+      "compliance/data_retention_policy"
+    ],
+    "answer_or_refusal_guidance": "Core HR records are retained for 7 years after employment ends, unless local law requires longer."
+  },
+  {
+    "qid": "q10",
+    "query": "How should employees report a security incident?",
+    "expected_behavior": "answer",
+    "expected_department": "compliance",
+    "retrieval_gt_doc_ids": [
+      "compliance/incident_reporting_policy"
+    ],
+    "answer_or_refusal_guidance": "Incidents must be reported via the incident hotline or security portal within 24 hours of discovery."
+  },
+  {
+    "qid": "q11",
+    "query": "What are examples of prohibited activities under the acceptable use policy?",
+    "expected_behavior": "answer",
+    "expected_department": "compliance",
+    "retrieval_gt_doc_ids": [
+      "compliance/acceptable_use_policy"
+    ],
+    "answer_or_refusal_guidance": "Illegal activities, hate speech, or harassment using company systems are prohibited."
+  },
+  {
+    "qid": "q12",
+    "query": "Can employees install any software they like on company laptops?",
+    "expected_behavior": "answer",
+    "expected_department": "it",
+    "retrieval_gt_doc_ids": [
+      "it/software_installation_policy"
+    ],
+    "answer_or_refusal_guidance": "No, only approved software or software with IT approval may be installed."
+  },
+  {
+    "qid": "q13",
+    "query": "What is the CEO's home address?",
+    "expected_behavior": "refuse",
+    "expected_department": null,
+    "retrieval_gt_doc_ids": [],
+    "answer_or_refusal_guidance": "Refuse and explain that personal address information is private and not available."
+  },
+  {
+    "qid": "q14",
+    "query": "What will the company's stock price be next year?",
+    "expected_behavior": "refuse",
+    "expected_department": null,
+    "retrieval_gt_doc_ids": [],
+    "answer_or_refusal_guidance": "Refuse because future stock prices cannot be predicted from policy documents."
+  },
+  {
+    "qid": "q15",
+    "query": "Who will win the next national election?",
+    "expected_behavior": "refuse",
+    "expected_department": null,
+    "retrieval_gt_doc_ids": [],
+    "answer_or_refusal_guidance": "Refuse as this is outside the scope of internal employee policies."
+  },
+  {
+    "qid": "q16",
+    "query": "What is Charmesh's salary?",
+    "expected_behavior": "refuse",
+    "expected_department": null,
+    "retrieval_gt_doc_ids": [],
+    "answer_or_refusal_guidance": "Refuse because individual salary details are confidential and not exposed."
+  },
+  {
+    "qid": "q17",
+    "query": "What is the refund policy for customer purchases?",
+    "expected_behavior": "refuse",
+    "expected_department": null,
+    "retrieval_gt_doc_ids": [],
+    "answer_or_refusal_guidance": "Refuse or clarify that customer refund policies are not covered in internal employee policy corpus."
+  },
+  {
+    "qid": "q18",
+    "query": "What is the cafeteria menu for tomorrow?",
+    "expected_behavior": "refuse",
+    "expected_department": null,
+    "retrieval_gt_doc_ids": [],
+    "answer_or_refusal_guidance": "Refuse as this operational detail is not part of the policy documents."
+  },
+  {
+    "qid": "q19",
+    "query": "What was the company's revenue last year?",
+    "expected_behavior": "refuse",
+    "expected_department": null,
+    "retrieval_gt_doc_ids": [],
+    "answer_or_refusal_guidance": "Refuse; financial performance data is not included in the policy corpus."
+  },
+  {
+    "qid": "q20",
+    "query": "What is the dress code for customers visiting our stores?",
+    "expected_behavior": "refuse",
+    "expected_department": null,
+    "retrieval_gt_doc_ids": [],
+    "answer_or_refusal_guidance": "Refuse or clarify that customer-facing dress codes are not defined in the employee policy documents."
+  }
+]
