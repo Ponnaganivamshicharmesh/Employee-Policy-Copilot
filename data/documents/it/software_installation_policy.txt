@@ -1,0 +1,10 @@
+Software Installation Policy
+Version: 1.0
+Effective Date: 2026-01-20
+Owner: IT Support
+
+Purpose
+To manage software installation and licensing compliance.
+
+1. Approved Software
+Employees may install only software from the approved catalog or with IT approval.

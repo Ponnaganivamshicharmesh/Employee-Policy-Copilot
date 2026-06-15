@@ -1,0 +1,10 @@
+Access Control Policy
+Version: 1.0
+Effective Date: 2026-01-08
+Owner: IT Security
+
+Purpose
+To control access to company systems and data.
+
+1. Principle of Least Privilege
+Access is granted based on job role and reviewed at least annually.
