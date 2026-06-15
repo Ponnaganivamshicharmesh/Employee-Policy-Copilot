@@ -1,0 +1,31 @@
+Q: What is the travel reimbursement policy?
+Retrieved: ['finance/travel_reimbursement_policy', 'finance/meal_allowance_policy', 'finance/expense_policy']
+Expected: ['finance/travel_reimbursement_policy']
+Answer: The Travel Reimbursement Policy (Version 1.2) defines reimbursable business travel expenses and the process for claiming them. It applies to employees who travel on approved company business. The policy includes the following key points:
+
+1. Eligible Expenses: Economy airfare, train tickets, local transportation, hotel accommodation, and meals are reimbursable, within approved daily limits.
+2. Meal Allowance: Meal expenses are reimbursable, capped at 800 INR per day for domestic travel, unless pre-approved for a higher limit.
+3. Pre-Approvals: All travel must be approved in advance by the reporting manager and, where applicable, the budget owner.
+4. Claim Submission: Claims must be submitted within 15 calendar days of trip completion through the expense system with itemised receipts.
+
+Exceptions to the policy require written approval from the department head and Finance. Additionally, ride-sharing services are reimbursable when used for local travel during an approved trip and supported by receipts.
+
+Q: Are meal expenses reimbursable, and what is the daily limit?
+Retrieved: ['finance/travel_reimbursement_policy', 'finance/meal_allowance_policy', 'finance/expense_policy']
+Expected: ['finance/travel_reimbursement_policy', 'finance/meal_allowance_policy']
+Answer: Yes, meal expenses are reimbursable. The daily limit for domestic travel is 800 INR per day, excluding alcohol. For international travel, meal limits are defined by destination and published annually by Finance. Itemised receipts are required for all meal claims.
+
+Q: What is the leave approval process?
+Retrieved: ['hr/leave_policy', 'finance/travel_reimbursement_policy', 'it/access_control_policy']
+Expected: ['hr/leave_policy']
+Answer: The leave approval process is as follows: All planned leave requests must be submitted through the HR portal and approved by the reporting manager before the leave start date. Unplanned emergency leave should be notified to the manager as soon as reasonably possible.
+
+Q: How many days of annual leave do employees accrue per year?
+Retrieved: ['hr/leave_policy', 'finance/travel_reimbursement_policy', 'hr/employee_handbook']
+Expected: ['hr/leave_policy']
+Answer: Employees accrue 20 days of paid annual leave per calendar year.
+
+Q: What is considered late arrival under the attendance policy?
+Retrieved: ['hr/attendance_policy', 'compliance/privacy_policy', 'hr/leave_policy']
+Expected: ['hr/attendance_policy']
+Answer: According to the Attendance and Punctuality Policy, arrivals more than 15 minutes after the scheduled start time are considered late, unless pre-approved.
