@@ -9,9 +9,7 @@
     "owner": "HR Operations",
     "access_level": "internal",
     "source_file": "data/documents/hr/employee_handbook.txt",
-    "tags": [
-      "hr"
-    ]
+    "tags": ["hr"]
   },
   {
     "doc_id": "hr/leave_policy",
@@ -23,9 +21,7 @@
     "owner": "HR Operations",
     "access_level": "internal",
     "source_file": "data/documents/hr/leave_policy.txt",
-    "tags": [
-      "hr"
-    ]
+    "tags": ["hr"]
   },
   {
     "doc_id": "hr/attendance_policy",
@@ -37,9 +33,7 @@
     "owner": "HR Operations",
     "access_level": "internal",
     "source_file": "data/documents/hr/attendance_policy.txt",
-    "tags": [
-      "hr"
-    ]
+    "tags": ["hr"]
   },
   {
     "doc_id": "hr/performance_review_policy",
@@ -51,9 +45,7 @@
     "owner": "HR Operations",
     "access_level": "internal",
     "source_file": "data/documents/hr/performance_review_policy.txt",
-    "tags": [
-      "hr"
-    ]
+    "tags": ["hr"]
   },
   {
     "doc_id": "finance/travel_reimbursement_policy",
@@ -65,9 +57,7 @@
     "owner": "Finance",
     "access_level": "internal",
     "source_file": "data/documents/finance/travel_reimbursement_policy.txt",
-    "tags": [
-      "finance"
-    ]
+    "tags": ["finance"]
   },
   {
     "doc_id": "finance/expense_policy",
@@ -79,9 +69,7 @@
     "owner": "Finance",
     "access_level": "internal",
     "source_file": "data/documents/finance/expense_policy.txt",
-    "tags": [
-      "finance"
-    ]
+    "tags": ["finance"]
   },
   {
     "doc_id": "finance/meal_allowance_policy",
@@ -93,9 +81,7 @@
     "owner": "Finance",
     "access_level": "internal",
     "source_file": "data/documents/finance/meal_allowance_policy.txt",
-    "tags": [
-      "finance"
-    ]
+    "tags": ["finance"]
   },
   {
     "doc_id": "finance/procurement_policy",
@@ -107,9 +93,7 @@
     "owner": "Finance",
     "access_level": "internal",
     "source_file": "data/documents/finance/procurement_policy.txt",
-    "tags": [
-      "finance"
-    ]
+    "tags": ["finance"]
   },
   {
     "doc_id": "engineering/device_usage_policy",
@@ -121,9 +105,7 @@
     "owner": "Engineering",
     "access_level": "internal",
     "source_file": "data/documents/engineering/device_usage_policy.txt",
-    "tags": [
-      "engineering"
-    ]
+    "tags": ["engineering"]
   },
   {
     "doc_id": "engineering/code_of_conduct_for_engineers",
@@ -135,9 +117,7 @@
     "owner": "Engineering",
     "access_level": "internal",
     "source_file": "data/documents/engineering/code_of_conduct_for_engineers.txt",
-    "tags": [
-      "engineering"
-    ]
+    "tags": ["engineering"]
   },
   {
     "doc_id": "engineering/secure_development_policy",
@@ -149,9 +129,7 @@
     "owner": "Engineering",
     "access_level": "internal",
     "source_file": "data/documents/engineering/secure_development_policy.txt",
-    "tags": [
-      "engineering"
-    ]
+    "tags": ["engineering"]
   },
   {
     "doc_id": "engineering/onboarding_technical_guidelines",
@@ -163,9 +141,7 @@
     "owner": "Engineering",
     "access_level": "internal",
     "source_file": "data/documents/engineering/onboarding_technical_guidelines.txt",
-    "tags": [
-      "engineering"
-    ]
+    "tags": ["engineering"]
   },
   {
     "doc_id": "it/access_control_policy",
@@ -177,9 +153,7 @@
     "owner": "IT",
     "access_level": "internal",
     "source_file": "data/documents/it/access_control_policy.txt",
-    "tags": [
-      "it"
-    ]
+    "tags": ["it"]
   },
   {
     "doc_id": "it/password_and_mfa_policy",
@@ -191,9 +165,7 @@
     "owner": "IT",
     "access_level": "internal",
     "source_file": "data/documents/it/password_and_mfa_policy.txt",
-    "tags": [
-      "it"
-    ]
+    "tags": ["it"]
   },
   {
     "doc_id": "it/software_installation_policy",
@@ -205,9 +177,7 @@
     "owner": "IT",
     "access_level": "internal",
     "source_file": "data/documents/it/software_installation_policy.txt",
-    "tags": [
-      "it"
-    ]
+    "tags": ["it"]
   },
   {
     "doc_id": "compliance/privacy_policy",
@@ -219,9 +189,7 @@
     "owner": "Compliance",
     "access_level": "internal",
     "source_file": "data/documents/compliance/privacy_policy.txt",
-    "tags": [
-      "compliance"
-    ]
+    "tags": ["compliance"]
   },
   {
     "doc_id": "compliance/data_retention_policy",
@@ -233,9 +201,7 @@
     "owner": "Compliance",
     "access_level": "internal",
     "source_file": "data/documents/compliance/data_retention_policy.txt",
-    "tags": [
-      "compliance"
-    ]
+    "tags": ["compliance"]
   },
   {
     "doc_id": "compliance/incident_reporting_policy",
@@ -247,9 +213,7 @@
     "owner": "Compliance",
     "access_level": "internal",
     "source_file": "data/documents/compliance/incident_reporting_policy.txt",
-    "tags": [
-      "compliance"
-    ]
+    "tags": ["compliance"]
   },
   {
     "doc_id": "compliance/acceptable_use_policy",
@@ -261,8 +225,6 @@
     "owner": "Compliance",
     "access_level": "internal",
     "source_file": "data/documents/compliance/acceptable_use_policy.txt",
-    "tags": [
-      "compliance"
-    ]
+    "tags": ["compliance"]
   }
 ]
